@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/
+data/*.jsonl
+data/humaneval_prompts.json
+data/humaneval_nf.json

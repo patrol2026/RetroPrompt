@@ -1,0 +1,6 @@
+# RetroPrompt: prompt refinement for LLM code generation via backward reasoning
+fire>=0.5.0
+requests>=2.28
+flask>=2.2
+radon>=6.0            # maintainability index for the non-functional benchmark
+gunicorn>=20.1        # optional: multi-worker code executor
